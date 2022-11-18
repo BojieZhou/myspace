@@ -1,24 +1,8 @@
 # myspace
 
-## Project setup
-```
-npm install
-```
+### 基于Vue3的个人空间
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### 实现功能
+1.  好友列表，查看每个好友发过的帖子
+2.  发布帖子
+3.  登录和注册功能
